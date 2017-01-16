@@ -135,7 +135,8 @@ h1 a:focus, h1 a:hover {
     margin:0 0.5em 0 0
 }
 #trainer-info dl {
-    margin-top: 1px
+    margin-top: 1px;
+    text-align:center
 }
 #trainer-info dt, #trainer-info dd {
     display:inline-block
