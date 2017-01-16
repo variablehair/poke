@@ -850,7 +850,7 @@ $(document).ready(function() {
             if (!trainerIconUrl) {
                 trainerIconUrl = "static/blank.gif";
             }
-            trainerInfo += "<img src=\"" + trainerIconUrl + "\" alt=\"\" width=\"92\" height=\"75\">";
+            trainerInfo += "<img src=\"" + trainerIconUrl + "\" alt=\"\" width=\"182\" height=\"150\">";
             trainerInfo += "<dl>";
             if (inGameName) {
                 trainerInfo += "<dt><abbr title=\"In-Game Name\">IGN</abbr></dt>";
