@@ -853,11 +853,11 @@ $(document).ready(function() {
             trainerInfo += "<img src=\"" + trainerIconUrl + "\" alt=\"\" width=\"182\" height=\"150\">";
             trainerInfo += "<dl>";
             if (inGameName) {
-                trainerInfo += "<dt><abbr title=\"In-Game Name\">IGN</abbr></dt>";
+                //trainerInfo += "<dt><abbr title=\"In-Game Name\">IGN</abbr></dt>";
                 trainerInfo += "<dd>" + inGameName + "<br>" + "</dd>";
             }
             if (friendCode) {
-                trainerInfo += "<dt><abbr title=\"Friend Code\">FC</abbr></dt>";
+                //trainerInfo += "<dt><abbr title=\"Friend Code\">FC</abbr></dt>";
                 trainerInfo += "<dd>" + friendCode + "</dd>";
             }
             trainerInfo += "</dl>";
