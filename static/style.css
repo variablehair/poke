@@ -131,6 +131,7 @@ h1 a:focus, h1 a:hover {
     margin: 0 auto 1em
 }
 #trainer-info img{
+    display:block;
     margin:auto
 }
 #trainer-info dl {
