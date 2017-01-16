@@ -132,11 +132,11 @@ h1 a:focus, h1 a:hover {
 }
 #trainer-info img{
     float:left;
-    margin:0 0.5em 0 0
+    margin:auto
 }
 #trainer-info dl {
     margin-top: 1px;
-    align-content:center
+    text-align:center
 }
 #trainer-info dt, #trainer-info dd {
     display:inline-block
